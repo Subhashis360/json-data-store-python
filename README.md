@@ -20,7 +20,6 @@ The JSON Data Store Python script is a lightweight utility designed to facilitat
 Begin using the script by cloning the repository and employing it in your Python environment:
 
 ```bash
-git clone https://github.com/your-username/json-data-store-python.git
-cd json-data-store-python
-# Use the script in your Python environment
+use the script in your Python environment
+download the script first
 python store.py
